@@ -11,8 +11,14 @@ With a love for coding and a knack for problem-solving, I'm always up for a chal
 
  If you share my passion for innovation and want to explore exciting opportunities together, feel free to reach out!
 
- contact me here on GitHub
+ contact me here on any of these:
+ 
+ GitHub: [✨gregchang2✨](https://github.com/gregchang2)
 
+ Linkedin : [✨Greg Chang✨](https://www.linkedin.com/in/greg-chang-916459265/)
+
+ 
+ 
 ##
 
 
