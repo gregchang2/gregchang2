@@ -13,9 +13,9 @@ With a love for coding and a knack for problem-solving, I'm always up for a chal
 
  contact me here on any of these:
  
- GitHub: [✨gregchang2✨](https://github.com/gregchang2)
+ GitHub: [✨ gregchang2 ✨](https://github.com/gregchang2)
 
- Linkedin : [✨Greg Chang✨](https://www.linkedin.com/in/greg-chang-916459265/)
+ Linkedin : [✨ Greg Chang ✨](https://www.linkedin.com/in/greg-chang-916459265/)
 
  
  
