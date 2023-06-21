@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hey there I'm Greg Chang👋
+
+![star-wars-obi-wan-kenobi](https://github.com/gregchang2/gregchang2/assets/122581208/2540bb13-1754-42b3-b7e1-cf2935e0e11a)
+
+
+Welcome to my GitHub profile! I'm a passionate very new Full Stack Developer from Auckland 
+
+Mission Ready HQ ignited my passion and now I am constantly exploring the exciting realms of web development.
+
+With a love for coding and a knack for problem-solving, I'm always up for a challenge.
+
+ If you share my passion for innovation and want to explore exciting opportunities together, feel free to reach out!
+
+ contact me here on GitHub
+
+##
+
 
 <!--
 **gregchang2/gregchang2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
