@@ -1,6 +1,3 @@
-
-![star-wars-obi-wan-kenobi](https://github.com/gregchang2/gregchang2/assets/122581208/2540bb13-1754-42b3-b7e1-cf2935e0e11a)
-
 ## I'm Greg Chang👋
 
 Welcome to my GitHub profile! I'm a very new Full Stack Developer from Auckland 
