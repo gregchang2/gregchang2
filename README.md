@@ -3,15 +3,9 @@
 
 ## I'm Greg Chang👋
 
-Welcome to my GitHub profile! I'm a passionate very new Full Stack Developer from Auckland 
+Welcome to my GitHub profile!
 
-Mission Ready HQ ignited my passion and now I am constantly exploring the exciting realms of web development.
-
-With a love for coding and a knack for problem-solving, I'm always up for a challenge.
-
- If you share my passion for innovation and want to explore exciting opportunities together, feel free to reach out!
-
- contact me here on any of these:
+contact me here on any of these:
  
  GitHub: [✨ gregchang2 ✨](https://github.com/gregchang2)
 
