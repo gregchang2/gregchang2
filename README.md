@@ -8,6 +8,9 @@ If you share the same enthusiasm for coding and are open to exploring exciting o
 Languages and Tools:<br><br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,ts,github,postman,mysql,sass,azure,gcp,mongodb,docker)](https://skillicons.dev)
 
+🌱 I’m currently learning:<br><br>
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+
 contact me here on any of these if you are interested in working with me:
  
  GitHub: [✨ gregchang2 ✨](https://github.com/gregchang2)
