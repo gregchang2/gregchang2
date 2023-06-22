@@ -3,7 +3,7 @@
 
 ## I'm Greg Chang👋
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! I'm a very new Full Stack Developer from Auckland
 
 contact me here on any of these:
  
