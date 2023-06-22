@@ -1,4 +1,4 @@
-## Hello There I'm Greg Chang👋
+# Hello There I'm Greg Chang👋
 
 Welcome to my GitHub profile! I'm a very new Full Stack Developer from Auckland 
 This year, I embarked on my coding journey through Mission Ready.
