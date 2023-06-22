@@ -3,9 +3,11 @@
 
 ## I'm Greg Chang👋
 
-Welcome to my GitHub profile! I'm a very new Full Stack Developer from Auckland
-
-contact me here on any of these:
+Welcome to my GitHub profile! I'm a very new Full Stack Developer from Auckland 
+This year, I embarked on my coding journey through Mission Ready.
+striving for continuous improvement, I thrive on new challenges and problem-solving.
+If you share the same enthusiasm for coding and are open to exploring exciting opportunities. 
+contact me here on any of these if you are interested in working with me:
  
  GitHub: [✨ gregchang2 ✨](https://github.com/gregchang2)
 
